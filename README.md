@@ -8,5 +8,6 @@
 
 Arquivos e programas do curso de visão computacional(openCV) e Python
 
-#Link
-<a href="https://www.youtube.com/watch?v=oXlwWbU8l2o&t=12485s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjxJtm0ajGZl8o7H6VhHBEH9a02d2JAyvdBO592NL-3mwRE_NHhPEI4GXHxN_Pzs6YGFo&usqp=CAU" class="img" width = 600 height = 320></a>
+# Clique na imagem abaixo para acessar as aulas
+
+<a href="https://www.youtube.com/watch?v=oXlwWbU8l2o&t=12485s"><img src="https://ashwin-phadke.github.io/post/install-opencv/featured.png" class="img" width = 600 height = 320></a>
